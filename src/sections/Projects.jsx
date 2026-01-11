@@ -19,7 +19,7 @@ function Projects() {
       name: "Nael Construction - Management App",
       brief:
         "A custom construction management application that helps track ongoing projects, employee activities, and payments. It streamlines project progress monitoring, manages leave, appraisals, and attendance, and oversees financial aspects like payments and expenditures, ensuring efficient operations and decision-making. ",
-      tech: ["React.js", "MUI", "Express", "PostgreSQL"],
+      tech: ["React.js", "MUI", "Express", "PostgreSQL","Netlify" ,"GitHub"],
     },
     {
       image:Cosmicnode ,
