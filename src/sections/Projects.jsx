@@ -1,7 +1,7 @@
 import { useState } from "react";
 import dashboard from "../assets/dashboard-app.webp";
 import RevealOnScroll from "../Ui/RevealOnScroll";
-import Nael from "../assets/nael.png";
+import Nael from "../assets/Nael.png";
 import Cosmicnode from "../assets/cosmicnode.png";
 import NaelMulti from "../assets/nael-multi.png";
 
