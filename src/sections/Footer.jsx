@@ -8,7 +8,7 @@ function Footer() {
 
           <a
             href="https://www.linkedin.com/in/akhil-ramesh28"
-            className="border p-2 text-2xl rounded hover:-translate-y-2 transition-all bg-blue-700 text-white "
+            className="border p-2 text-2xl rounded hover:-translate-y-2 transition-all bg-blue-800 text-white "
             target="_blank"
           >
             <SlSocialLinkedin />
